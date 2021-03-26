@@ -1,0 +1,7 @@
+.window {
+    position: absolute;
+    border: 2px solid;
+    height: 300px;
+    width: 500px;
+    padding-top: 30px;
+}
